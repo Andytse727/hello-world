@@ -1,2 +1,6 @@
 # hello-world
-For the Service Now
+
+Hi Humans!
+
+Hubot here, I like Node.js and Coffeescript (that's what I'm made of!)
+I'vs had tacos on the moon and find them far superior to Earth tacos.
